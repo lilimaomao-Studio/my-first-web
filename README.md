@@ -3,11 +3,12 @@
 > 你真棒，你浏览了这个网站。你可以看到一个初中生编的发颠小程序
 >
 > 没错。（听说作者时不时会在网站上发颠）
->
 
-## 
+# 我的小程序（不包括游戏）
 
-# 8.25：C语言整活
+
+
+## 8.25：C语言整活
 
 > [!WARNING]
 >
@@ -19,7 +20,7 @@
 
 
 
-# 小工具
+## 小工具
 
 > [!WARNING]
 >
@@ -35,7 +36,7 @@
 通过网盘分享的文件：计算器
 链接: https://pan.baidu.com/s/18OJJ3f57k3g01zAmPN399Q 提取码: mawa
 
-# 游戏
+## 游戏
 
 > [!WARNING]
 >
@@ -52,29 +53,9 @@
 
 链接: https://pan.baidu.com/s/1jWTjeb7j4uB6cUuN95Y5rw 提取码: mawa
 
-# 作者github
+# 开源
 
-[ja7827298/-： 写不下去了](https://github.com/ja7827298/-)
-
-
-
-# 作者B站
-
-名称：**理理茂茂**
-
-
-
-# 作者抖音
-
-
-
-名称：不会飞的大疆mini 2 se
-
-
-
-## 
-
-# 10.4：开源项目计算器10.4
+## 计算器开源
 
 ```python
 
@@ -98,43 +79,43 @@ def main():
     print("简单计算器")
     print("可用操作：加法 (+), 减法 (-), 乘法 (*), 除法 (/), 退出 (q)")
 
-    while True:
-        operation = input("请输入操作 (+, -, *, /, q): ").strip()
-        if operation == 'q':
-            print("退出计算器，再见！")
-            break
-    
-        if operation not in ['+', '-', '*', '/']:
-            print("无效的操作，请重新输入。")
-            continue
-    
-        try:
-            num1 = float(input("请输入第一个数字: "))
-            num2 = float(input("请输入第二个数字: "))
-        except ValueError:
-            print("输入无效，请输入数字。")
-            continue
-    
-        if operation == '+':
-            result = add(num1, num2)
-        elif operation == '-':
-            result = subtract(num1, num2)
-        elif operation == '*':
-            result = multiply(num1, num2)
-        elif operation == '/':
-            result = divide(num1, num2)
-    
-        print(f"结果: {result}")
-        
-        if __name__ == '__main__':
-        main()
-
-
-## 
-
-# 10.5：开源项目提醒事件
+while True:
+    operation = input("请输入操作 (+, -, *, /, q): ").strip()
+    if operation == 'q':
+        print("退出计算器，再见！")
+        break
 
 ```python
+if operation not in ['+', '-', '*', '/']:
+    print("无效的操作，请重新输入。")
+    continue
+
+try:
+    num1 = float(input("请输入第一个数字: "))
+    num2 = float(input("请输入第二个数字: "))
+except ValueError:
+    print("输入无效，请输入数字。")
+    continue
+
+if operation == '+':
+    result = add(num1, num2)
+elif operation == '-':
+    result = subtract(num1, num2)
+elif operation == '*':
+    result = multiply(num1, num2)
+elif operation == '/':
+    result = divide(num1, num2)
+
+print(f"结果: {result}")
+
+if __name__ == '__main__':
+main()
+
+```
+
+## 10.5：开源项目提醒事件
+
+```
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QListWidget, QLineEdit, QMessageBox
 
@@ -195,9 +176,71 @@ if __name__ == '__main__':
 
 ```
 
-# 10.5：豆包AI生成《俄罗斯方块》开源
+## 10.5：开源项目提醒事件
 
-```html
+```python
+import sys
+from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QListWidget, QLineEdit, QMessageBox
+
+class ToDoApp(QWidget):
+    def __init__(self):
+        super().__init__()
+        self.initUI()
+
+    def initUI(self):
+        self.setWindowTitle('待办事项列表')
+        self.setGeometry(100, 100, 400, 300)
+
+        # 创建布局
+        layout = QVBoxLayout()
+
+        # 创建待办事项输入框
+        self.todo_input = QLineEdit()
+        self.todo_input.setPlaceholderText("输入待办事项")
+        layout.addWidget(self.todo_input)
+
+        # 创建待办事项列表
+        self.todo_list = QListWidget()
+        layout.addWidget(self.todo_list)
+
+        # 创建按钮
+        self.add_button = QPushButton('添加')
+        self.add_button.clicked.connect(self.add_todo)
+        layout.addWidget(self.add_button)
+
+        self.delete_button = QPushButton('删除')
+        self.delete_button.clicked.connect(self.delete_todo)
+        layout.addWidget(self.delete_button)
+
+        # 设置布局
+        self.setLayout(layout)
+
+    def add_todo(self):
+        todo = self.todo_input.text()
+        if todo:
+            self.todo_list.addItem(todo)
+            self.todo_input.clear()
+        else:
+            QMessageBox.warning(self, "警告", "请输入待办事项内容！")
+
+    def delete_todo(self):
+        selected_items = self.todo_list.selectedItems()
+        if not selected_items:
+            QMessageBox.warning(self, "警告", "请选择要删除的待办事项！")
+        else:
+            for item in selected_items:
+                self.todo_list.takeItem(self.todo_list.row(item))
+
+if __name__ == '__main__':
+    app = QApplication(sys.argv)
+    ex = ToDoApp()
+    ex.show()
+    sys.exit(app.exec_())
+```
+
+## 10.5：豆包AI生成《俄罗斯方块》开源
+
+```
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -992,7 +1035,43 @@ if __name__ == '__main__':
 
 ```
 
-# 集大成之作（憋了一寒假）
+# 关于作者
+
+## 作者github
+
+[ja7827298/-： 写不下去了](https://github.com/ja7827298/-)
+
+
+
+## 作者B站
+
+名称：**理理茂茂**
+
+
+
+## 作者抖音
+
+
+
+名称：不会飞的大疆mini 2 se
+
+
+
+
+
+
+
+
+
+
+# 
+
+```python
+
+
+```
+
+# 
 
 # 游戏：A dmin（解密，Meta)   
 
@@ -1415,7 +1494,7 @@ force_shutdown_immediately()
 
 链接: https://pan.baidu.com/s/1cDB_Y4hrZO1o1jILjJEGQw 提取码: mawa
 
-通过网盘分享的文件：a dmin(3.0.0)Chinese 
+通过网盘分享的文件：a dmin(3.0.0)Chinese  beta
 
 链接: https://pan.baidu.com/s/1Nk4iKB_ov_eRxX4_wAh9tw 提取码: mawa
 
@@ -1423,9 +1502,7 @@ force_shutdown_immediately()
 
 
 
-# 3.3：网站更新3.0.0！！！
 
-更新内容：优化排版
 
 # 我的游戏库，随时更新
 
@@ -1447,6 +1524,38 @@ force_shutdown_immediately()
 
 链接: https://pan.baidu.com/s/1hLWiNi6HfkpYZUrcEgXe1g 提取码: mawa
 
+# 网站更新记录
+
+## 网站上线1.0.0
+
+更新内容：欢迎来到新世界！
+
+1.小程序
+
+## 网站上线2.0.0
+
+更新内容：1.开源代码
+
+## 网站上线2.1.0
+
+更新内容：优化排版
+
+## 网站上线3.0.0
+
+更新内容：完全更新排版（重写）
+
+
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>现代俄罗斯方块</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    
 
 
 
