@@ -1524,7 +1524,7 @@ force_shutdown_immediately()
 
 链接: https://pan.baidu.com/s/1hLWiNi6HfkpYZUrcEgXe1g 提取码: mawa
 
-# 网站更新记录
+# 网站更新日志
 
 ## 网站上线1.0.0
 
@@ -1544,7 +1544,9 @@ force_shutdown_immediately()
 
 更新内容：完全更新排版（重写）
 
+通过网盘分享的文件：网站更新日志3.0.0.txt 
 
+链接: https://pan.baidu.com/s/1-Xv1tovWdwPZNlm5K5UvXQ?pwd=lmlm 提取码: lmlm
 
 <!DOCTYPE html>
 <html lang="zh-CN">
@@ -1555,8 +1557,7 @@ force_shutdown_immediately()
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
-    
-
+​    
 
 
 
