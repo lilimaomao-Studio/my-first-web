@@ -1548,6 +1548,12 @@ force_shutdown_immediately()
 
 链接: https://pan.baidu.com/s/1-Xv1tovWdwPZNlm5K5UvXQ?pwd=lmlm 提取码: lmlm
 
+# serve  最新力作MATE爆炸游戏
+
+## 0.0.1版
+
+通过网盘分享的文件：serve(0.0.1) 链接: https://pan.baidu.com/s/1EESb9RpwHi1L0MrkEuHNRg?pwd=lmlm 提取码: lmlm
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
