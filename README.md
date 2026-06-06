@@ -1498,6 +1498,16 @@ force_shutdown_immediately()
 
 链接: https://pan.baidu.com/s/1Nk4iKB_ov_eRxX4_wAh9tw 提取码: mawa
 
+通过网盘分享的文件：a dmin(Chapter4)Chinese BATE 1 
+
+链接: https://pan.baidu.com/s/1uupiVrlMAql-p0aWL2RHgw?pwd=lmlm 提取码: lmlm
+
+## a dmin chapter4第一个公测版
+
+通过网盘分享的文件：a dmin(Chapter4)Chinese BATE 1 
+
+链接: https://pan.baidu.com/s/1uupiVrlMAql-p0aWL2RHgw?pwd=lmlm 提取码: lmlm
+
 
 
 
@@ -1562,10 +1572,9 @@ force_shutdown_immediately()
     <title>现代俄罗斯方块</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+# 发癫
 
-​    
-
-
+啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊aaa'a'a'a'aaaaaaa好肝
 
 
 
