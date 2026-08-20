@@ -1,5 +1,7 @@
 # Bili_board术力口传说曲周榜第75期预测文字版@**南河三NHS_**
 
+【Bili_board术力口传说曲周榜第75期预测】https://www.bilibili.com/video/BV1b38n6nEqw?vd_source=dd77e4620dbd7a573955d28c256309ca
+
 ## 20名 视奸
 
 上升 上周排名无 在榜周数72 最高排名1
