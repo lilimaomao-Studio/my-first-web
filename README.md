@@ -4,7 +4,7 @@
 
 正版周榜：【Bili_Board术力口传说曲周榜第75期2026年8月21日第34周】https://www.bilibili.com/video/BV1P38A6tE9J?vd_source=dd77e4620dbd7a573955d28c256309ca
 
-
+![image_Bili_board术力口传说曲75..._](C:\Users\Admin\Documents\网站\image_Bili_board术力口传说曲75..._.png)
 
 ## 20名 视奸 无
 
@@ -100,7 +100,7 @@
 
 
 
-
+![image_Bili_board术力口传说曲..._073](C:\Users\Admin\Documents\网站\image_Bili_board术力口传说曲..._073.png)
 
 ## 20名 呀啦啦啦 -6
 
