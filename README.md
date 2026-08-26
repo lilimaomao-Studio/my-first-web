@@ -2,7 +2,7 @@
 
 【Bili_board术力口传说曲周榜第76期预测】https://www.bilibili.com/video/BV1ow8o6AEFz?vd_source=dd77e4620dbd7a573955d28c256309ca
 
-## ![image_Bili_board术力口传说曲..._0](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20260826_1787743616.png)
+![image_Bili_board术力口传说曲..._0](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20260826_1787743616.png)
 
 ## 20名 神的随波逐流 -4
 
@@ -88,11 +88,11 @@
 
 @プロキオンNHS_一体机
 
-本人@视频爽看p_official 上线网站，审核
+@视频爽看p_official 上线网站，审核
 
 @PVZ星星果 彩蛋的部分UI
 
-# 
+
 
 
 
@@ -198,7 +198,7 @@
 
 @プロキオンNHS_一体机
 
-本人@视频爽看p_official 上线网站
+@视频爽看p_official 上线网站
 
 
 
@@ -294,7 +294,7 @@
 
 @プロキオンNHS_一体机
 
-本人@视频爽看p_official 上线网站
+@视频爽看p_official 上线网站
 
 
 
@@ -322,7 +322,7 @@
 
 
 
-##                                           本人@视频爽看p_official 上线网站，审核
+##                                           @视频爽看p_official 上线网站，审核
 
 
 
