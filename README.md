@@ -4,7 +4,7 @@
 
 正版周榜：【Bili_Board术力口传说曲周榜第75期2026年8月21日第34周】https://www.bilibili.com/video/BV1P38A6tE9J?vd_source=dd77e4620dbd7a573955d28c256309ca
 
-![image_Bili_board术力口传说曲75..._](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20260826_1787709946.png)
+![](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20260826_1787709946.png)
 
 ## 20名 视奸 无
 
@@ -219,6 +219,10 @@
 ## 2026.8.25 0.1.2版本（版本号：BIBARD-WEB-2026825-1)
 
 1.改进排版
+
+## 2026.8.26 0.2.0版本（版本号：BIBARD-WEB-2026826-1）
+
+1.增加图片
 
 
 
