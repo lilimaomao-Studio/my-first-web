@@ -1,6 +1,8 @@
-# Bili_board术力口传说曲周榜第79期预测文字版
+# Bili_board术力口传说曲周榜第81期预测文字版
 
 【Bili_board术力口传说曲周榜第81期预测-哔哩哔哩】 https://b23.tv/zOA7hFZ
+
+![image_81期预测文字版。_0](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20261006_1791272863.png)
 
 ## 20名 不要听那姓T的话 下降
 
@@ -513,6 +515,12 @@ I Can't Wait feat. GUMI
 
 1.删除月榜（不做了）
 
+## 2026.10.6 1.0.12版本（版本号：BIBARD-WEB-2026106-1）
+
+1.加上了图片（81期）
+
+2.谁能借我一台服务器
+
 
 
 
@@ -530,9 +538,9 @@ I Can't Wait feat. GUMI
 因9.1开学，网站可能更新不及时，功能补充不全，请谅解！！！
 
 
-# Bili-board_Predict(比利博的_预测)声名
+# (c)NHS_board声名
 
-bili-board_Predict(以下简称南河三预测P)
+NHS_board(以下简称南河三预测P)，NHS_board保留所有权利，最终解释权由NHS_board
 
 ## 周榜说明
 
