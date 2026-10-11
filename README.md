@@ -1,4 +1,11 @@
+# Bili_board术力口传说曲周榜第82期预测文字版
+
+【Bili_board术力口传说曲周榜第82期预测-哔哩哔哩】 https://b23.tv/FBFGAqi
+由于特殊原因不施工第82期的文字版
+
 # Bili_board术力口传说曲周榜第81期预测文字版
+
+
 
 【Bili_board术力口传说曲周榜第81期预测-哔哩哔哩】 https://b23.tv/zOA7hFZ
 
