@@ -1,3 +1,61 @@
+# Bili_board术力口传说曲周榜第83期预测文字版
+
+【Bili_board术力口传说曲周榜第83期预测】https://www.bilibili.com/video/BV1Lmp167ExX?vd_source=dd77e4620dbd7a573955d28c256309ca
+
+![image_Bili_board术力口传说曲..._0](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20261016_1792154068.jpg)
+
+<video src="C:\Users\Admin\OneDrive\文档\网站\video_Bili_board术力口传说曲..._0.mp4" controls=""></video>
+
+
+
+## 20名 I Can't Wait 下降
+
+## 19名 超主人公 下降
+
+## 18名 不要听那姓T的话 下降
+
+## 17名 天涯 上升
+
+## 16名 奇景 上升
+
+## 15名 求与影 下降
+
+## 14名 麻麻木木 上升
+
+## 13名 燃尽 下降
+
+## 12名 视奸 上升
+
+## 11名 仍在闪耀 上升
+
+## 10名 处刑股掌 下降
+
+## 9名 请批准吧灯神先生 上升
+
+## 8名 脑蚀 下降
+
+## 7名 根本不明白吧 上升
+
+## 6名 像个笨蛋一样 下降
+
+## 5名 驱魔 下降
+
+## 4名 妄想感伤代偿联盟 上升
+
+## 3名 好想听你说月色真美 下降
+
+## 2名 展示中毒 新曲
+
+## 1?名 敌人$ 持@##平##4 Sorry![彩蛋](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20261016_1792155132.png)
+
+## 友情参演
+
+![参演83](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20261016_1792155371.png)
+
+## @ 叶莲-术力口版 封面设计
+
+
+
 # Bili_board术力口传说曲周榜第82期预测文字版
 
 【Bili_board术力口传说曲周榜第82期预测-哔哩哔哩】 https://b23.tv/FBFGAqi
@@ -340,27 +398,29 @@ I Can't Wait feat. GUMI
 
 
 
-
-
-<img src="https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20260826_1787745646.png" alt="1787745063440" style="zoom:67%;" />
-
-
+![1787745063440](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20261016_1792155575.png)
 
 ##                                                         @プロキオンNHS_预测P 剪辑，UI提供等                                                                               
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20260826_1787745761.png" alt="1787745556351" style="zoom:67%;" />
 
 
+![1787745556351](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20261016_1792155583.png)
 
 ##                                           @视频爽看p_official 上线网站，审核
 
 
 
+
+
+![头像1](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20261016_1792155510.png)
+
+## @铁块的回响 数据统计
+
 > [!NOTE]
 >
-> 制作名单中，不包括特别鸣谢的人，@PVZ星星果是暂时（暂时的不是指一期，是截至我们自主画彩蛋为止）的彩蛋UI提供者，后期我们会自己画彩蛋
+> 姓名排名不分先后
 
 # 文字榜更新日志
 
@@ -442,6 +502,12 @@ I Can't Wait feat. GUMI
 1.加上了图片（81期）
 
 2.谁能借我一台服务器
+
+## 2026.10.16 1.0.2版本（版本号：BIBARD-WEB-20261016-1）
+
+1.什么，文字榜还有榜首彩蛋？？？！！！
+
+
 
 
 
