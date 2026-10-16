@@ -52,7 +52,7 @@
 
 ![参演83](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20261016_1792155371.png)
 
-## @ 叶莲-术力口版 封面设计
+## @ 叶莲-术力口版
 
 
 
@@ -417,6 +417,10 @@ I Can't Wait feat. GUMI
 ![头像1](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20261016_1792155510.png)
 
 ## @铁块的回响 数据统计
+
+![2](https://cdn.jsdelivr.net/gh/ja7827298/my-first-web@main/typora/20261016_1792156421.png)
+
+## @术力口语出 封面制作
 
 > [!NOTE]
 >
